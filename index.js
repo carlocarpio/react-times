@@ -1,4 +1,4 @@
-require('./lib/utils/time').default;
-var TimePicker = require('./lib/components/TimePicker').default;
+require('./src/utils/time').default;
+var TimePicker = require('./src/components/TimePicker').default;
 
 module.exports = TimePicker;
